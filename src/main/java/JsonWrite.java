@@ -47,7 +47,7 @@ public class JsonWrite {
                 if (str != null) {
                     rez += str + "\n";
                 } else if (rez.length() != 0) {
-                    rez = rez.substring(0, rez.length() - 3);
+                    rez = rez.substring(0, rez.length() - 2);
                     rez += ",\n";
                 }
             } while (str != null);
@@ -59,8 +59,7 @@ public class JsonWrite {
 
 
     public String toJson(Product product){
-        return "{\n\"type\":\""+ product.getClass().getName().substring(this.getClass().getName().lastIndexOf(".")+1)+"\""+"," +
-                "\n\"id\":" + product.getId() +
+        return "{\n\"id\":" + product.getId() +
                 ",\n\"price\":" + product.getPrice() +
                 ",\n\"name\":\"" + product.getName() + "\"\n}";
     }

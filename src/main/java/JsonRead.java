@@ -22,15 +22,14 @@ public class JsonRead {
 
     private Product createProduct(String productString) {
         String[] pairs = productString.split(",");
-        String[] split0 = pairs[0].split(":");
-        String[] split1 = pairs[1].split(":");
-        String[] split2 = pairs[2].split(":");
-        String[] split3 = pairs[3].split(":");
-        Product product = null;
-        if ("\"Product".equals(split0[1])) {
-            product = new Product(Integer.parseInt(split1[1]), Integer.parseInt(split3[1]), split2[1]);
-        }
-        return product;
+
+        String idString = pairs [0].split (":")[1];
+        String priceString = pairs [1].split (":")[1];
+        String nameString = pairs [2].split (":")[1];
+
+        Product p = new Product( Integer.parseInt(idString), Integer.parseInt(priceString), nameString );
+
+        return p;
     }
 
 

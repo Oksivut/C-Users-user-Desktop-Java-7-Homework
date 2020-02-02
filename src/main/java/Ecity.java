@@ -41,6 +41,9 @@ public class Ecity implements Shop {
         if (listId == null) {
             return check;
         }
+        if (listId.size() == 0) {
+            throw new EmptyСheckException ();
+        }
         for (int i = 0; i < listId.size(); i++) {
             Product soldProduct = mapId.get(listId.get(i));
             countOfProducts = mapProduct.get(soldProduct );
@@ -54,9 +57,7 @@ public class Ecity implements Shop {
                 mapProduct.remove(soldProduct);
                 mapId.remove(soldProduct);
             }
-            if (listId.size() == 0) {
-                throw new EmptyСheckException ();
-            }
+
         }
         return check;
     }

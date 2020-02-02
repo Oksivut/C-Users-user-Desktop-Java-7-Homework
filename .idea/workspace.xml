@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e08ea122-7ff7-4bce-a4bd-64d9e0d94b1c" name="Default Changelist" comment="" />
+    <list default="true" id="e08ea122-7ff7-4bce-a4bd-64d9e0d94b1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productsInShopCSV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/productsInShopCSV.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productsJson.json" beforeDir="false" afterPath="$PROJECT_DIR$/productsJson.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ecity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ecity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonRead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/6 Homework.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +83,10 @@
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="6 Homework" />
+      <module name="C-Users-user-Desktop-Java-7-Homework-master" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -201,6 +213,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/JsonRead.java</url>
           <line>17</line>
           <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
