@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e08ea122-7ff7-4bce-a4bd-64d9e0d94b1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productsInShopCSV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/productsInShopCSV.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/productsJson.json" beforeDir="false" afterPath="$PROJECT_DIR$/productsJson.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ecity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ecity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JsonWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JsonRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JsonWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonWrite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/6 Homework.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="e08ea122-7ff7-4bce-a4bd-64d9e0d94b1c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
